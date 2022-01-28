@@ -4,7 +4,7 @@
 ##  Full Stack Web Developer
 
 
-I am Saidur Rahman. I am a professional web designer. web design is my profession. I have following 3 years of experiences. I will create modern beautiful websites at an affordable price.. All design will be clean, custom and responsive, mobile friendly and works perfectly in any devices. I can create modern & responsive web sites with high quality and professional look.I will ensure 100% quality work.
+I am Saidur Rahman. I am a professional web designer. web design is my profession. I have following 3 years of experiences. I can create modern beautiful websites at an affordable price.. All design will be clean, custom and responsive, mobile friendly and works perfectly in any devices. I can create modern & responsive web sites with high quality and professional look.I will ensure 100% quality work.
 
 
 Skills:  REACT / JS / HTML / CSS
