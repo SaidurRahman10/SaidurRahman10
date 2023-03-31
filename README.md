@@ -16,9 +16,7 @@
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: My Social Media 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saidur Rahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saidur Rahman&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saidur Rahman&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SaidurRahman10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/saidur-rahman-sabbir-73289b215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com//SRS.Sabbir.70/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com//saidur_rahman10//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com//Rahman10Saidur)  
 
@@ -37,3 +35,9 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaidurRahman10)  
 
 ![Profile views](https://gpvc.arturio.dev/SaidurRahman10)  
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
