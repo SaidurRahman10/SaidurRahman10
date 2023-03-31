@@ -1,4 +1,6 @@
-[ Full Stack Web Developer](https://document-export.canva.com/I5FNU/DAE2uVI5FNU/12/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220128%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220128T003913Z&X-Amz-Expires=39935&X-Amz-Signature=47290d576407c9414c7f3cfde887c55867b5aa85c441f7def9b3fd2b40708313&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2028%20Jan%202022%2011%3A44%3A48%20GMT)
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/srs.Sabbir.70/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saidurrahman00/) 
 
 # Hi there 👋, I am Saidur Rahman
 ##  Full Stack Web Developer
