@@ -36,7 +36,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/SaidurRahman10)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaidurRahman10)  
+
 
 [![](https://visitcount.itsvg.in/api?id=saidur&icon=0&color=0)](https://visitcount.itsvg.in)
 
