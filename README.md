@@ -25,7 +25,10 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaidurRahman10&show_icons=true&count_private=true)  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saidur&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saidur&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saidur&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaidurRahman10)  
 
