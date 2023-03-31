@@ -21,7 +21,7 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaidurRahman10)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaidurRahman10&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -38,7 +38,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SaidurRahman10)  
 
-![Profile views](https://gpvc.arturio.dev/SaidurRahman10)  
+[![](https://visitcount.itsvg.in/api?id=saidur&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
