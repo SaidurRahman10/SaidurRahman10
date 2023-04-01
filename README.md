@@ -2,14 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/srs.Sabbir.70/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saidurrahman00/) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaidurRahman10&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaidurRahman10)  
-
-![GitHub metrics](https://metrics.lecoq.io/SaidurRahman10)  
 
 
 # Hi there 👋, I am Saidur Rahman
@@ -37,7 +30,14 @@
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaidurRahman10&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaidurRahman10)  
+
+![GitHub metrics](https://metrics.lecoq.io/SaidurRahman10)  
 
 
 
