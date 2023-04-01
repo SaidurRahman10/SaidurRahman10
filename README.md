@@ -2,6 +2,16 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/srs.Sabbir.70/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saidurrahman00/) 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaidurRahman10&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaidurRahman10)  
+
+![GitHub metrics](https://metrics.lecoq.io/SaidurRahman10)  
+
+
 # Hi there 👋, I am Saidur Rahman
 ##  Full Stack Web Developer
 
@@ -27,21 +37,16 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaidurRahman10&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaidurRahman10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SaidurRahman10)  
-
-![GitHub metrics](https://metrics.lecoq.io/SaidurRahman10)  
 
 
 
-[![](https://visitcount.itsvg.in/api?id=saidur&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
+
+[![](https://visitcount.itsvg.in/api?id=saidur&icon=0&color=0)](https://visitcount.itsvg.in)
